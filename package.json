@@ -4,8 +4,8 @@
   "description": "Week 3 - Hero3 code - extends from hero",
   "main": "index.js",
   "scripts": {
-  "test": "jest"
-},
+    "test": "jest"
+  },
   "author": "Brisa Carter - Extending from Debasis",
   "license": "ISC",
   "dependencies": {
@@ -13,10 +13,10 @@
     "inspirational-quotes": "^1.0.8",
     "popular-movie-quotes": "^1.2.4",
     "superheroes": "^3.0.0",
+    "supertest": "^7.0.0",
     "supervillains": "^3.0.0"
   },
   "devDependencies": {
-  "jest": "^27.0.0" 
+    "jest": "^27.5.1"
+  }
 }
-}
-
