@@ -1,15 +1,22 @@
 {
-  "name": "nodejs",
+  "name": "hero-hw3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Week 3 - Hero3 code - extends from hero",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "test": "jest"
+},
+  "author": "Brisa Carter - Extending from Debasis",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.6"
-  }
+    "famous-last-words": "^0.6.0",
+    "inspirational-quotes": "^1.0.8",
+    "popular-movie-quotes": "^1.2.4",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  },
+  "devDependencies": {
+  "jest": "^27.0.0" 
 }
+}
+
